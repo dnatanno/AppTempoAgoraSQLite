@@ -1,0 +1,1 @@
+C:\Users\Dnatan\Desktop\MauiAppTempoSQLite\MauiAppTempoSQLite\MauiAppTempoSQLite.csproj;x64
